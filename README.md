@@ -63,6 +63,5 @@ bank-customer-churn-prediction-chaid-spss/
 ```
 
 ## Author
-**Akbar Naeem**  
-*Babu Banarasi Das University*  
-*Supervisor: Mr. Vikas Kumar*
+**Varsha Tiwari**  
+*Babu Banarasi Das University*
